@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**Ericksx7/Ericksx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Eu estou atualmente trabalhando em: [Descreva seu projeto ou área de foco atual]
 
-Here are some ideas to get you started:
+🌱 Eu estou atualmente aprendendo: [Liste tecnologias, idiomas ou habilidades que você está adquirindo]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Eu estou procurando colaborar em: [Especifique tipos de projetos, desafios ou iniciativas que lhe interessam]
+
+🤔 Eu estou procurando ajuda com: [Mencione um problema específico, tecnologia ou conceito que está te desafiando]
+
+💬 Pergunte-me sobre: [Liste seus principais conhecimentos ou paixões (ex: Python, Desenvolvimento Web, Viagens)]
+
+📫 Como me contatar: [Insira seu e-mail, link do LinkedIn, ou outro meio de contato preferido]
+
+😄 Pronomes: [Seus pronomes de preferência (ex: ele/dele, ela/dela, elu/delu)]
+
+⚡ Curiosidade: [Compartilhe um fato interessante ou engraçado sobre você]
